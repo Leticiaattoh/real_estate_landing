@@ -163,7 +163,7 @@ input {
     justify-content: center;
     align-items: center;
     background-color: rgba(108, 97, 97, 0.918);
-    /* margin-top: 5px; */
+    margin-top: 5px;
     font-size: 20;
     grid-template-columns: repeat(5, 1fr);
     grid-template-rows: 1fr;
@@ -248,16 +248,22 @@ input {
 }
 
 .image-container2 img {
-    width: 50%;
+    /* width: 10%; */
+    padding: 10%;
+    padding-right: 20%;
+    margin: auto;
+
+
 }
 
 
 .text-container2 {
     line-height: 1.0;
-    margin-bottom: 1.2rem;
+    margin-bottom: 1.8rem;
     color: grey;
-    width: 50%;
-    text
+    margin-left: 20%;
+    margin-top: 3rem;
+    /* width: 70%; */
 }
 
 .text-container2 h1 {
@@ -270,9 +276,9 @@ input {
 
 .text-container2 p {
     text-align: justify;
-    padding-right: 20%;
+    padding-right: 5%;
     display: flex;
-    width: 60%;
+    /* width: 60%; */
     line-height: 1.8;
     font-stretch: expanded;
 }
@@ -293,15 +299,15 @@ input {
 
 .flex-container2 {
     display: flex;
-    gap: 5px;
+    /* gap: 5px; */
     margin-bottom: 1rem;
 }
 
 .main-container2 {
-    width: 90%;
+    /* width: 10%; */
     /* padding-right: 15px; */
     /* padding-left: 15px; */
     /* margin-right: auto; */
     /* margin-left: auto; */
-    padding: 30%
+    /* padding: 30% */
 }
