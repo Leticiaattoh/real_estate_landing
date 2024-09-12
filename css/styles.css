@@ -303,11 +303,7 @@ input {
     margin-bottom: 1rem;
 }
 
-.main-container2 {
-    /* width: 10%; */
-    /* padding-right: 15px; */
-    /* padding-left: 15px; */
-    /* margin-right: auto; */
-    /* margin-left: auto; */
-    /* padding: 30% */
+.heart-color {
+ color:blue ;
 }
+
